@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mails\\Documents\\GitHub\\Raycaster\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{350DD018-631A-4B7A-A3A4-2C8F11947ED4}|Raycaster\\Raycaster.vcxproj|C:\\Users\\mails\\Documents\\GitHub\\Raycaster\\Raycaster\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{350DD018-631A-4B7A-A3A4-2C8F11947ED4}|Raycaster\\Raycaster.vcxproj|solutionrelative:Raycaster\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\mails\\Documents\\GitHub\\Raycaster\\Raycaster\\main.cpp",
+              "RelativeDocumentMoniker": "Raycaster\\main.cpp",
+              "ToolTip": "C:\\Users\\mails\\Documents\\GitHub\\Raycaster\\Raycaster\\main.cpp",
+              "RelativeToolTip": "Raycaster\\main.cpp",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAGMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-19T11:07:27.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
